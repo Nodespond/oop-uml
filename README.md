@@ -14,4 +14,5 @@
 Заказ содержит в себе информацию(Info), стоимость (Cost) и прибавку в рейтинге (RatingUp).
 
 Машина содержит название модели (Model), класс( СarClass) и статус состояния (Status). Можно проверить статус машины( checkStatus(): String) и прикрепить к ней водителя (GetDriver (driver : Driver) ) .
-![diagram1 (1)](https://github.com/Nodespond/oop-uml/assets/145635207/441378cd-56a3-4977-a2ca-43ceeb37ab01)
+![diagram](https://github.com/Nodespond/oop-uml/assets/145635207/d470b35a-d662-49a0-a07f-8d7f69ccbc53)
+
